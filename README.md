@@ -29,7 +29,8 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT
-![image](./python1.png)
+![image](https://github.com/karthikeyan-R16/Swapping-two-values/assets/119421232/b697e88d-4d2a-4442-9e13-bd01e40b461e)
+
 
 
 ## RESULT:
